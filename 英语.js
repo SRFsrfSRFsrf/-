@@ -11,7 +11,7 @@ let DanCiFanYi=["a. 冗长乏味的","vt. 迫使；使负有义务","a. 极感�
 let Num=new Array();
 let Judgement;
 Judgement=0;
-/*let name=window.prompt("请输入你的名字：");
+let name=window.prompt("请输入你的名字：");
 if(name=="石若飞"||name=="srf"||name=='SRF')
 {
     Judgement=0;
@@ -19,7 +19,7 @@ if(name=="石若飞"||name=="srf"||name=='SRF')
 else
 {
     window.alert("名字不正确，您无法使用此功能");
-}*/
+}
 function JiZhi()
 {
     let h=1;
